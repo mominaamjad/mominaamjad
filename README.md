@@ -1,16 +1,22 @@
-## Hi there 👋
+<img src="/assets/banner.jpg" alt="header" style="width: 100%;">
 
-<!--
-**mominaamjad/mominaamjad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 style="text-align: center;">
+<a href="https://git.io/typing-svg" target="_blank">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=2000&pause=150&multiline=true&width=650&height=140&lines=%24+this+is;momina+amjad+&color=8B4513" alt="Title GitHub Readme" />
+</a>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 aspiring web developer
+- 🔭 currently exploring back-end development + ML
+- 🌱 focusing on `javascript`
+- 🎨 passionate about painting and calligraphy on the side
+- ⚡ fun fact: my favorite book is atomic habits
+
+</br>
+
+<div align="center">
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mominaamjad&langs_count=3&theme=radical&bg_color=1F222E&title_color=8B4513&hide_border=true&icon_color=BA684D)]()
+</div>
+
