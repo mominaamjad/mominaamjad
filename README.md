@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"  target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=8B4513&size=25&center=true&vCenter=true&width=600&height=140&lines=this+is+momina+amjad;aspiring+web+developer"  alt="Title GitHub Readme">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=8B4513&size=25&center=true&vCenter=true&width=600&height=140&lines=this+is+momina+amjad;i+code+sometimes+:)"  alt="Title GitHub Readme">
   </a>
 </h1>
 <a href="#" >
